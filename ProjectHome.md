@@ -1,0 +1,1 @@
+Halo devkit is an open sourced project containing reversed Halo engine data to be useful for 3rd party developers.
